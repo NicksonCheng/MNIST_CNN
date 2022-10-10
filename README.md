@@ -1,2 +1,1 @@
 # MNIST_CNN
-# MNIST_CNN
